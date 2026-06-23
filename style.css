@@ -16,7 +16,15 @@ body{
     
     }
     
-    
+    #amount{
+        width: 320px;
+    }
+    #rate{
+        width: 320px;
+    }
+    #year{
+        width: 320px;
+    }
     input,button{
     
     width:100%;
